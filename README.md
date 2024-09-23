@@ -1,7 +1,7 @@
-<h1>Oi! Eu sou a Milena...</h1>
+<h1>Olá, sou Henrique..</h1>
 
-- Atualmente trabalhando com **Analise de Dados**
-- Estudando **SQL**
+- Atualmente fazendo **projeto pela DNC**
+- Estudando **Node js dentre outras linguas**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="H-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
