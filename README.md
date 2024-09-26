@@ -1,5 +1,3 @@
-<h1>Olá, sou Henrique...</h1>
-
 - Atualmente fazendo **projeto pela DNC**
 - Estudando **Node js dentre outras linguagens**
 
@@ -13,5 +11,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar!">
+  <img src="https://github.com/seu-usuario/seu-repositorio/raw/master/assets/thank-you.gif" alt="Obrigado por visitar">
 </div>
