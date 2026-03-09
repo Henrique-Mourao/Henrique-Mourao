@@ -7,10 +7,9 @@
 <div align="center">
 
 Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Software** e atuo como **Engenheiro de Dados**.
+<br><br>
 
-<br>
-
-<p align="center">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark" title="Apache Spark"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40" alt="Databricks" title="Databricks"/>
@@ -29,53 +28,53 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-</p>
+</div>
 
+</div>
+
+---
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+  <img src="https://img.shields.io/badge/📥_Fontes-333333?style=for-the-badge&logo=database&logoColor=white" alt="Fontes"/> 
+  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
+  <img src="https://img.shields.io/badge/🔄_Airflow_Spark-E25A1C?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Processamento"/> 
+  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
+  <img src="https://img.shields.io/badge/🗄️_Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Storage"/> 
+  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
+  <img src="https://img.shields.io/badge/⚙️_APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="APIs"/> 
+  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
+  <img src="https://img.shields.io/badge/📊_Visualização-FF6B6B?style=for-the-badge&logo=tableau&logoColor=white" alt="Visualização"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📥_Fontes-333333?style=for-the-badge&logo=database&logoColor=white" alt="Fontes"/> <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> <img src="https://img.shields.io/badge/🔄_Airflow_Spark-E25A1C?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Processamento"/> <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> <img src="https://img.shields.io/badge/🗄️_Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Storage"/> <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> <img src="https://img.shields.io/badge/⚙️_APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="APIs"/> <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> <img src="https://img.shields.io/badge/📊_Visualização-FF6B6B?style=for-the-badge&logo=tableau&logoColor=white" alt="Visualização"/>
-
-
-<div align="center">
-  
 ## O que estou fazendo atualmente
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
+<div style="flex:1; min-width:280px; max-width:450px;">
+  
 ### 📊 Engenharia de Dados
 
-<br>
-
-- Desenvolvendo **pipelines de dados** robustos e escaláveis
-- Trabalhando com **Apache Spark** e **Databricks**
-- Orquestrando workflows com **Apache Airflow**
+- Desenvolvendo **pipelines de dados** robustos e escaláveis  
+- Trabalhando com **Apache Spark** e **Databricks**  
+- Orquestrando workflows com **Apache Airflow**  
 - Implementando arquiteturas **Data Lakes** e **Lakehouse**
+</div>
 
-<br>
-
-</td>
-<td width="50%" valign="top">
-
+<div style="flex:1; min-width:280px; max-width:450px;">
+  
 ### ⚙️ Desenvolvimento
 
-<br>
-
-- Construindo **APIs** e serviços **Backend**
-- Otimizando consultas em **MariaDB**, **MySQL** e **PostgreSQL**
-- Containerizando aplicações com **Docker**
+- Construindo **APIs** e serviços **Backend**  
+- Otimizando consultas em **MariaDB**, **MySQL** e **PostgreSQL**  
+- Containerizando aplicações com **Docker**  
 - Modelagem de dados em larga escala
+</div>
 
-<br>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -87,9 +86,8 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
 <a href="https://portifolio-mourao.netlify.app/">
   <img src="https://img.shields.io/badge/-Ver%20Projetos%20Completos-0A66C2?style=for-the-badge" alt="Portfolio"/>
 </a>
+<br><br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Engineering" width="200">
 </div>
-<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Engineering" width="200">
-</div>
+
