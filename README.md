@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Software** e atuo como **Engenheiro de Dados**.
+Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Software** com foco em **desenvolvimento Full Stack**, utilizando **Java** e **React**. Também atuo na área de **Engenharia de Dados**, trabalhando com **Apache Spark** no processamento e análise de dados.
 <br><br>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
@@ -34,22 +34,21 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
 
 ---
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
-  <img src="https://img.shields.io/badge/📥_Fontes-333333?style=for-the-badge&logo=database&logoColor=white" alt="Fontes"/> 
-  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
-  <img src="https://img.shields.io/badge/🔄_Airflow_Spark-E25A1C?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Processamento"/> 
-  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
-  <img src="https://img.shields.io/badge/🗄️_Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Storage"/> 
-  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
-  <img src="https://img.shields.io/badge/⚙️_APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="APIs"/> 
-  <img src="https://img.shields.io/badge/→-000000?style=for-the-badge" alt="arrow"/> 
-  <img src="https://img.shields.io/badge/📊_Visualização-FF6B6B?style=for-the-badge&logo=tableau&logoColor=white" alt="Visualização"/>
+<div align="center">
+
+![Fontes](https://img.shields.io/badge/Fontes_de_Dados-333333?style=for-the-badge)
+![Arrow](https://img.shields.io/badge/→-000000?style=for-the-badge)
+![Processing](https://img.shields.io/badge/Airflow_+_Spark-E25A1C?style=for-the-badge)
+![Arrow](https://img.shields.io/badge/→-000000?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Data_Lake/Warehouse-4479A1?style=for-the-badge)
+![Arrow](https://img.shields.io/badge/→-000000?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs_REST-6DB33F?style=for-the-badge)
+![Arrow](https://img.shields.io/badge/→-000000?style=for-the-badge)
+![BI](https://img.shields.io/badge/Dashboards_&_BI-FF6B6B?style=for-the-badge)
+
 </div>
 
 ---
-
-<div align="center">
-
 ## O que estou fazendo atualmente
 </div>
 
@@ -57,7 +56,7 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
 
 <div style="flex:1; min-width:280px; max-width:450px;">
   
-### 📊 Engenharia de Dados
+### Engenharia de Dados
 
 - Desenvolvendo **pipelines de dados** robustos e escaláveis  
 - Trabalhando com **Apache Spark** e **Databricks**  
@@ -67,7 +66,7 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
 
 <div style="flex:1; min-width:280px; max-width:450px;">
   
-### ⚙️ Desenvolvimento
+### Desenvolvimento
 
 - Construindo **APIs** e serviços **Backend**  
 - Otimizando consultas em **MariaDB**, **MySQL** e **PostgreSQL**  
@@ -82,7 +81,6 @@ Me chamo **Henrique Gonçalves Mourão**, sou estudante de **Engenharia de Softw
 <div align="center">
 
 ## Portfólio
-
 <a href="https://portifolio-mourao.netlify.app/">
   <img src="https://img.shields.io/badge/-Ver%20Projetos%20Completos-0A66C2?style=for-the-badge" alt="Portfolio"/>
 </a>
